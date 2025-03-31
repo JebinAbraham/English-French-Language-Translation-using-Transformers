@@ -1,7 +1,7 @@
 
 # 🌍 Transformer-based Language Translation
 
-This Jupyter Notebook implements a basic **Transformer model from scratch** using PyTorch to perform **English to French translation**. It’s designed as an educational project to understand the inner workings of transformer-based architectures.
+This Jupyter Notebook implements a basic **Transformer model from scratch** using PyTorch to perform **English to French translation**. It’s designed as an foundatioal project to understand the inner workings of transformer-based architectures.
 
 ---
 
